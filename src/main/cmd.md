@@ -1,21 +1,22 @@
-# cmd.rs
-
-#### Launching your own teams
+<div align="center">
+    <h1>cmd.rs</h1>
+    <h4>Launching your own commands</h4>
+</div>
 
 ---
 
 ### The structure of use
 
 > crate::shime
-> ├─ tokenize::*
+> ├─ tokenize::\*
 > 
 > └─ func
->  ├─dir
->  │ ├─ self
->  │ └─ go
->  └─ say,
+>      ├─dir
+>      │  ├─ self
+>      │  └─ go
+>      └─ say,
 > 
-> [ansi_colors::*](https://docs.rs/ansi-colors/0.3.0/ansi_colors/)
+> [ansi_colors::\*](https://docs.rs/ansi-colors/0.3.0/ansi_colors/)
 
 ---
 

@@ -1,6 +1,6 @@
 <div align="center">
-    <h1>main</h1>
-    <h4>The main shime module.</h4>
+    <h1>main.rs</h1>
+    <h4>The main shime module</h4>
 </div>
 
 ---
@@ -9,13 +9,13 @@
 
 > crate
 > 
-> ├─ mod cmd
+> ├─ [mod cmd](https://github.com/h1kkar/shime-doc/blob/main/src/main.md#mod-cmd)
 > 
-> ├─ mod exec
+> ├─ [mod exec](https://github.com/h1kkar/shime-doc/blob/main/src/main.md#mod-exec)
 > 
-> ├─ mod shime
+> ├─ [mod shime](https://github.com/h1kkar/shime-doc/blob/main/src/main.md#mod-shime)
 > 
-> └─ fn main()
+> └─ [fn main()](https://github.com/h1kkar/shime-doc/blob/main/src/main.md#fn-main)
 
 ---
 
@@ -29,16 +29,16 @@
 
 #### mod shime
 
-> The module containing the basic functionality of `shime`.
+> The module containing the basic functionality of `shime`
 
 ---
 
 #### mod exec
 
-> The module containing a function that launches programs.
+> The module containing a function that launches programs
 
 ---
 
 #### [mod cmd](https://github.com/h1kkar/shime-doc/blob/main/src/main/cmd.md)
 
-> The module containing functions for its own commands.
+> The module containing functions for its own commands
