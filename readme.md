@@ -8,3 +8,7 @@
 ### [main](https://github.com/h1kkar/shime-doc/blob/main/src/main.md)
 
 > A concept meaning "container" of everything and all in Rust.
+
+##### Dependencies:
+
+- h

@@ -5,22 +5,6 @@
 
 ---
 
-### The structure of use
-
-```
-crate::shime
-├─ tokenize::\*
-└─ func
-   ├─dir
-   │ ├─ self
-   │ └─ go
-   └─ say,
-```
-
-[ansi_colors](https://docs.rs/ansi-colors/0.3.0/ansi_colors/)
-
----
-
 ### The structure of functions:
 
 ```
@@ -29,10 +13,6 @@ cmd
 ├─ fn clr()
 └─ fn exit()
 ```
-
-
-
-> 
 
 ---
 
@@ -59,20 +39,12 @@ you moved to the project dir
 you moved to the home dir
 ```
 
-Dependencies:
-
-> [ansi_colors]([ansi_colors - Rust](https://docs.rs/ansi-colors/0.3.0/ansi_colors/))
-
 ---
 
 ### fn clr()
 
 > A function that displays a set of colors.
 > I need it to select colors (in the future it will change the name or completely disappear as unnecessary)
-
-Dependencies:
-
-> [ansi_colors]([ansi_colors - Rust](https://docs.rs/ansi-colors/0.3.0/ansi_colors/))
 
 ---
 
