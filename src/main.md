@@ -7,15 +7,13 @@
 
 #### The structure of modules and functions:
 
-> crate
-> 
-> ├─ [mod cmd](https://github.com/h1kkar/shime-doc/blob/main/src/main.md#mod-cmd)
-> 
-> ├─ [mod exec](https://github.com/h1kkar/shime-doc/blob/main/src/main.md#mod-exec)
-> 
-> ├─ [mod shime](https://github.com/h1kkar/shime-doc/blob/main/src/main.md#mod-shime)
-> 
-> └─ [fn main()](https://github.com/h1kkar/shime-doc/blob/main/src/main.md#fn-main)
+```
+crate
+├─ mod cmd
+├─ mod exec
+├─ mod shime
+└─ fn main()
+```
 
 ---
 
@@ -29,16 +27,16 @@
 
 #### mod shime
 
-> The module containing the basic functionality of `shime`
+> The module containing the basic functionality of `shime`.
 
 ---
 
 #### mod exec
 
-> The module containing a function that launches programs
+> The module containing a function that launches programs.
 
 ---
 
 #### [mod cmd](https://github.com/h1kkar/shime-doc/blob/main/src/main/cmd.md)
 
-> The module containing functions for its own commands
+> The module containing functions for its own commands.

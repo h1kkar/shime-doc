@@ -7,28 +7,32 @@
 
 ### The structure of use
 
-> crate::shime
-> ├─ tokenize::\*
-> 
-> └─ func
->      ├─dir
->      │  ├─ self
->      │  └─ go
->      └─ say,
-> 
-> [ansi_colors::\*](https://docs.rs/ansi-colors/0.3.0/ansi_colors/)
+```
+crate::shime
+├─ tokenize::\*
+└─ func
+   ├─dir
+   │ ├─ self
+   │ └─ go
+   └─ say,
+```
+
+[ansi_colors](https://docs.rs/ansi-colors/0.3.0/ansi_colors/)
 
 ---
 
 ### The structure of functions:
 
-> cmd
+```
+cmd
+├─ fn cd()
+├─ fn clr()
+└─ fn exit()
+```
+
+
+
 > 
-> ├─ [fn cd()](https://github.com/h1kkar/shime-doc/blob/main/src/main/cmd.md#fn-cd)
-> 
-> ├─ [fn clr()](https://github.com/h1kkar/shime-doc/blob/main/src/main/cmd.md#fn-clr)
-> 
-> └─ [fn exit()](https://github.com/h1kkar/shime-doc/blob/main/src/main/cmd.md#fn-exit)
 
 ---
 
