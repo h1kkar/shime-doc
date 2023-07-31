@@ -1,0 +1,46 @@
+<div align="center">
+    <h1>main.rs</h1>
+    <h4>The main shime module</h4>
+</div>
+
+---
+
+#### The structure of modules and functions:
+
+> crate
+> 
+> ├─ mod cmd
+> 
+> ├─ mod exec
+> 
+> ├─ mod shime
+> 
+> └─ fn main()
+
+---
+
+#### fn main()
+
+> The main file that launches `crate::shime::start()`
+
+##### There is no example, because this function simply launches another.
+
+---
+
+#### mod shime
+
+> The module containing the basic functionality of `shime`
+
+---
+
+#### mod exec
+
+> The module containing a function that launches programs
+
+---
+
+#### mod cmd
+
+> The module containing functions for its own commands
+
+
