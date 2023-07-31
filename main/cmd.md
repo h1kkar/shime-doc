@@ -15,6 +15,8 @@
 >      │  ├─ self
 >      │  └─ go
 >      └─ say,
+> 
+> [ansi_colors::\*](https://docs.rs/ansi-colors/0.3.0/ansi_colors/)
 
 ---
 
@@ -32,7 +34,7 @@
 
 ### fn cd(cmds: Command)
 
-> the function of moving along the directors inside your file system
+> A function of moving along the directors inside your file system
 
 ##### Example:
 
@@ -53,8 +55,25 @@ you moved to the project dir
 you moved to the home dir
 ```
 
+Dependencies:
+
+> [ansi_colors]([ansi_colors - Rust](https://docs.rs/ansi-colors/0.3.0/ansi_colors/))
+
 ---
 
 ### fn clr()
 
+> A function that displays a set of colors.
+> I need it to select colors (in the future it will change the name or completely disappear as unnecessary)
+
+Dependencies:
+
+> [ansi_colors]([ansi_colors - Rust](https://docs.rs/ansi-colors/0.3.0/ansi_colors/))
+
+---
+
 ### fn exit()
+
+> A function that comes out of the terminal and prints goodbye-message
+
+

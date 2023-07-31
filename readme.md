@@ -1,7 +1,12 @@
 <div align="center">
-<h1>documentation for shime</h1>
-<h5>This repository is designed to place the documentation here, telling about the structure of the shime code and that this or that part of the code performs, as well as examples of use, if you want to use functions in your project.</h5>
+    <h1>documentation for shime</h1>
+    <h5>This repository is designed to place the documentation here,</h5>
+    <h5>telling about the structure of the shime code and</h5>
+    <h5>that this or that part of the code performs, as well</h5>
+    <h5>as examples of use, if you want to use functions in your project.</h5>
 </div>
+
+
 
 ---
 
