@@ -17,7 +17,7 @@ crate
 
 ---
 
-#### fn main()
+#### fn main ()
 
 > The main file that launches `crate::shime::start()`
 
@@ -25,7 +25,7 @@ crate
 
 ---
 
-#### mod shime
+#### [mod shime](https://github.com/h1kkar/shime-doc/blob/main/src/main/shime.md)
 
 > The module containing the basic functionality of `shime`.
 

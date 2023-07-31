@@ -16,9 +16,9 @@ cmd
 
 ---
 
-### fn cd(cmds: Command)
+### fn cd (cmds: Command)
 
-> A function of moving along the directors inside your file system
+> A function of moving along the directors inside your file system.
 
 ##### Example:
 
@@ -44,10 +44,10 @@ you moved to the home dir
 ### fn clr()
 
 > A function that displays a set of colors.
-> I need it to select colors (in the future it will change the name or completely disappear as unnecessary)
+> I need it to select colors (in the future it will change the name or completely disappear as unnecessary).
 
 ---
 
 ### fn exit()
 
-> A function that comes out of the terminal and prints goodbye-message
+> A function that comes out of the terminal and prints goodbye-message.

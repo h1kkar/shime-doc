@@ -8,12 +8,13 @@
 ### The structure of functions:
 
 ```
-fn start()
+exec
+└─ fn start()
 ```
 
 ---
 
-### fn start(cmds: &String)
+### fn start (cmds: &String)
 
 > A function that launches the program according to the argument
 
