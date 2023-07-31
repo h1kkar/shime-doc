@@ -1,6 +1,6 @@
 <div align="center">
-    <h1>cmd.rs</h1>
-    <h4>Launching your own commands</h4>
+    <h1>cmd</h1>
+    <h4>The module containing functions for its own commands.</h4>
 </div>
 
 ---
@@ -24,9 +24,9 @@ cmd
 
 ```rust
 println!("{}", env::current_dir().unwrap());
-cd(Command { keyword: "cd".to_string(), args: "project/shime" })
+cd(Command { keyword: "cd".to_string(), args: "project/shime" });
 println!("{}", env::current_dir().unwrap());
-cd(Command { keyword: "cd".to_string(), args: ".." })
+cd(Command { keyword: "cd".to_string(), args: ".." });
 println!("{}", env::current_dir().unwrap());
 cd(Command { keyword: "cd".to_string(), args: "" })
 ```

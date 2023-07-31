@@ -31,7 +31,7 @@ crate
 
 ---
 
-#### mod exec
+#### [mod exec](https://github.com/h1kkar/shime-doc/blob/main/src/main/exec.md)
 
 > The module containing a function that launches programs.
 
