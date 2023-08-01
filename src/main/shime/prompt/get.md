@@ -60,4 +60,10 @@ get
 
 > The function that returns the path to the history file (\$HOME/.config/shime/shime_history).
 
+---
+
+<div align="center">
+    <h5><a href="https://github.com/h1kkar/shime-doc/blob/main/src/main/shime/prompt.md">back</a></h5>
+</div>
+
 
