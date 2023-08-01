@@ -23,11 +23,8 @@ cmd
 ##### Example:
 
 ```rust
-println!("{}", env::current_dir().unwrap());
 cd(Command { keyword: "cd".to_string(), args: "project/shime" });
-println!("{}", env::current_dir().unwrap());
 cd(Command { keyword: "cd".to_string(), args: ".." });
-println!("{}", env::current_dir().unwrap());
 cd(Command { keyword: "cd".to_string(), args: "" })
 ```
 
