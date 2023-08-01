@@ -5,7 +5,7 @@
 
 ---
 
-### The structure of functions:
+### The structure of modules and functions:
 
 ```
 shime
