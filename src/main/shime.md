@@ -43,5 +43,5 @@ shime
 ---
 
 <div align="center">
-    <h5><a href="">back</a></h5>
+    <h5><a href="https://github.com/h1kkar/shime-doc/blob/main/src/main.md">back</a></h5>
 </div>
