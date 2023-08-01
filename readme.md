@@ -11,4 +11,10 @@
 
 ##### Dependencies:
 
-- h
+- [dirs](https://crates.io/crates/dirs)
+- [rand](https://crates.io/crates/rand)
+- [git_info](https://crates.io/crates/git_info)
+- [ansi-colors](https://crates.io/crates/ansi-colors)
+- [tsu](https://crates.io/crates/tsu)
+- [toml](https://crates.io/crates/toml)
+- [rustyline](https://crates.io/crates/rustyline)

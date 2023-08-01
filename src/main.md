@@ -40,3 +40,9 @@ crate
 #### [mod cmd](https://github.com/h1kkar/shime-doc/blob/main/src/main/cmd.md)
 
 > The module containing functions for its own commands.
+
+---
+
+<div align="center">
+    <h5><a href="">back</a></h5>
+</div>
