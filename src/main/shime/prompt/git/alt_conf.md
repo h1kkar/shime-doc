@@ -17,3 +17,9 @@ alt_conf
 ### fn branch() -> String
 
 > The function that directly from the .git/HEAD receives git branch.
+
+---
+
+<div align="center">
+    <h5><a href="https://github.com/h1kkar/shime-doc/blob/main/src/main/shime/prompt/git.md">back</a></h5>
+</div>

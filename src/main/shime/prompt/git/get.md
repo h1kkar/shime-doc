@@ -38,3 +38,9 @@ get
 ### fn status() -> bool
 
 > The function that displays the "true" if the user is in the git repository, otherwise "false".
+
+---
+
+<div align="center">
+    <h5><a href="https://github.com/h1kkar/shime-doc/blob/main/src/main/shime/prompt/git.md">back</a></h5>
+</div>
