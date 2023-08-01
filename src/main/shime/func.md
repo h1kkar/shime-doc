@@ -24,3 +24,9 @@ func
 ### [mod say](https://github.com/h1kkar/shime-doc/blob/main/src/main/shime/func/say.md)
 
 > The module that welcomes you and says goodbye to you in different languages.
+
+---
+
+<div align="center">
+    <h5><a href="https://github.com/h1kkar/shime-doc/blob/main/src/main/shime.md">back</a></h5>
+</div>

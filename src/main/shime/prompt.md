@@ -66,3 +66,9 @@ prompt
 ### fn line()
 
 > The function that collects important information on the entry field.
+
+---
+
+<div align="center">
+    <h5><a href="https://github.com/h1kkar/shime-doc/blob/main/src/main/shime.md">back</a></h5>
+</div>

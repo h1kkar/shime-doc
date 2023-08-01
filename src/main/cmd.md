@@ -48,3 +48,9 @@ you moved to the home dir
 ### fn exit()
 
 > A function that comes out of the terminal and prints goodbye-message.
+
+---
+
+<div align="center">
+    <h5><a href="https://github.com/h1kkar/shime-doc/blob/main/src/main.md">back</a></h5>
+</div>
