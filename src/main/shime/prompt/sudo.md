@@ -24,3 +24,9 @@ sudo
 ### fn var() -> String
 
 > The function that returns the name of the current user.
+
+---
+
+<div align="center">
+    <h5><a href="">back</a></h5>
+</div>
